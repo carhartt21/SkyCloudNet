@@ -1,0 +1,34 @@
+{
+    "0": {
+        "name": "non-sky",
+        "color": [
+            152,
+            251,
+            152
+        ]
+    },
+    "1": {
+        "name": "sky",
+        "color": [
+            179,
+            236,
+            255
+        ]
+    },    
+    "2": {
+        "name": "cloud_solid",
+        "color": [
+            255,
+            255,
+            255
+        ]
+    },    
+    "3": {
+        "name": "cloud_semitransparent",
+        "color": [
+            180,
+            180,
+            180
+        ]
+    }
+}
